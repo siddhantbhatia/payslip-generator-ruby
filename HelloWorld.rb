@@ -43,3 +43,9 @@ puts myObject.calculator("-",1,2)
 puts myObject.calculator("x",1,2)
 puts myObject.calculator("/",1,2)
 puts myObject.calculator("^",1,2)
+
+## Loop
+puts "\n\n--Loops--"
+for i in 0..5 
+    puts "Value of i is #{i}"
+end
